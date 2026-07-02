@@ -12,7 +12,19 @@ professional-level skills for junior analyst roles in Geneva trading houses
 - Python for data analysis and backtesting
 
 ## Structure
-[Descripción de tus carpetas]
+commodity-trading-curriculum/
+├── README.md                  <- Presentación del proyecto
+├── bloque-01-fundamentos/     <- Apuntes y ejercicios del Bloque 1
+├── bloque-02-instrumentos/    <- Cálculos y simuladores de futuros/swaps
+├── bloque-05-python/          <- Todos los scripts Python del Bloque 5
+│   ├── data/                  <- Datasets de precios
+│   ├── notebooks/             <- Jupyter notebooks
+│   └── scripts/               <- Scripts Python listos para ejecutar
+├── bloque-08-tfg/             <- Proyecto final TFG Ginebra
+│   ├── report/                <- Informe en PDF
+│   ├── model/                 <- Modelo financiero en Sheets/Python
+│   └── presentation/          <- Deck ejecutivo
+└── templates/                 <- Plantillas reutilizables (emails, contratos)
 
 ## Tools & Stack
 Python, Google Sheets, SQL, Backtesting.py, NotebookLM, Perplexity Pro
